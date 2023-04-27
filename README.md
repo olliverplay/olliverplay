@@ -7,6 +7,6 @@
 
  
 
-- Estudante do Instituto SENAI
-- Cursando o Curso Informática para Internet
-- Front-End + Back-End
+- Instituição de formação: SENAI
+- Formado no curso técnico em informática para internet
+- Front-End + Back-End 
